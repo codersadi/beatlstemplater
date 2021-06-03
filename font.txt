@@ -1,0 +1,44 @@
+==Font Name==  font type
+opensans
+---------
+Light 300
+Semi-bold 600
+
+
+
+
+
+
+oswald
+------
+Regular 400
+Medium 500
+Bold 700
+
+
+
+
+
+Opensans	regular nd semi bold
+Oswald		regular and bold
+Oswald		medium nd regular
+
+
+
+
+font family
+----------
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,560 @@
+/* Sadi Extra (small Device)*/
+@media(min-width:320px) and (max-width:479px) {
+
+
+    .navbar-nav {
+        text-align: center;
+        background: #eee;
+        position: relative;
+        z-index: 9999;
+    }
+
+
+    .banner_content p {
+        padding: 0px 0px 0px 0px;
+    }
+
+    #banner_part {
+        padding: 115px 0px;
+        z-index: 2;
+    }
+
+    #banner_part {
+        padding: 115px 0px 60px 0px;
+    }
+
+    .about_text p {
+        margin-top: 0px;
+    }
+
+    .about_heading {
+        margin-bottom: 20px;
+    }
+
+    .angle {
+        position: absolute;
+        width: 10px;
+        height: 100%;
+        background: #0872B9;
+        top: -10px;
+        right: 33px;
+        transform: skewX(15deg);
+    }
+
+    .an_ab {
+        overflow: hidden;
+    }
+
+    .angle {
+        top: 0px;
+        right: 36px;
+        transform: skewX(14deg);
+    }
+
+    .ex_about_herading {
+        text-align: center;
+    }
+
+    .ex_sm {
+        margin-top: 20px;
+    }
+
+    .ex_sm_serverhea {
+        text-align: center;
+    }
+
+    .ex_sm_porfolio {
+        text-align: center !important;
+    }
+
+    .port_icon a {
+        margin-top: 29%;
+    }
+
+    .portow_icon .sm_ex_icon_fon {
+        margin-top: 46% !important;
+    }
+
+    .sm_ex_sd {
+        margin-top: 15px;
+    }
+
+    .ex_sm_team {
+        text-align: center;
+    }
+
+    .team_social a {
+        width: 38px;
+        height: 38px;
+        line-height: 38px;
+        margin-top: 29px;
+    }
+
+    .sm_ex_testi {
+        text-align: center;
+    }
+
+    .sm_ex {
+        margin-top: 20px;
+    }
+
+    .sm_ex_img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .footer_btm_content h4 {
+        font-size: 11px;
+    }
+
+    .sm_text_al {
+        text-align: center;
+    }
+
+    .sm_ex_pl {
+        margin-left: 15px;
+    }
+
+    #scroll_top {
+        padding: 4px 10px;
+    }
+
+    .sm_ex_impor {
+        margin-top: 20px;
+    }
+
+    .very_sm {
+        width: 100%;
+        text-align: center !important;
+    }
+
+    .very_sm_soci {
+        width: 100%;
+        text-align: center !important;
+        margin-top: 10px;
+    }
+
+    .banner_content h3 {
+        font-size: 18px;
+    }
+
+    .banner_content h2 {
+        font-size: 23px;
+        margin-bottom: 15px;
+    }
+
+    .banner_content p {
+        font-size: 13px;
+    }
+
+    #about_part {
+        padding-top: 55px;
+    }
+
+    .about_heading h2 {
+        font-size: 20px;
+    }
+
+    #service_part {
+        padding-top: 55px;
+    }
+
+    .service_heading h2 {
+        font-size: 20px;
+    }
+
+    .card-title {
+        font-size: 16px;
+    }
+
+    #portfolio {
+        padding-top: 55px;
+    }
+
+    .portfoliio_heading h2 {
+        font-size: 20px;
+    }
+
+    #team_part {
+        padding-top: 55px;
+    }
+
+    .team_heading h2 {
+        font-size: 20px;
+    }
+
+    #testimonial_part {
+        padding-top: 55px;
+    }
+
+    .testimonial_heading h2 {
+        font-size: 20px;
+    }
+
+    .test_content h2 {
+        font-size: 16px;
+    }
+
+    .test_content p {
+        font-size: 11px;
+    }
+
+    .im_pl_sm_ex {
+        margin-left: 15px;
+    }
+
+}
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media(min-width:480px) and (max-width:575px) {
+
+    .navbar-nav {
+        text-align: center;
+        background: #eee;
+        position: relative;
+        z-index: 999;
+    }
+
+
+    .banner_content p {
+        padding: 0px 0px 0px 0px;
+    }
+
+    #banner_part {
+        padding: 115px 0px;
+        z-index: 2;
+    }
+
+    #banner_part {
+        padding: 115px 0px 60px 0px;
+    }
+
+    .about_text p {
+        margin-top: 0px;
+    }
+
+    .about_heading {
+        margin-bottom: 20px;
+    }
+
+    .angle {
+        position: absolute;
+        width: 10px;
+        height: 100%;
+        background: #0872B9;
+        top: -10px;
+        right: 33px;
+        transform: skewX(15deg);
+    }
+
+    .an_ab {
+        overflow: hidden;
+    }
+
+    .angle {
+        top: 0px;
+        right: 48px;
+        transform: skewX(14deg);
+    }
+
+    .ex_about_herading {
+        text-align: center;
+    }
+
+    .ex_sm {
+        margin-top: 20px;
+    }
+
+    .ex_sm_serverhea {
+        text-align: center;
+    }
+
+    .ex_sm_porfolio {
+        text-align: center !important;
+    }
+
+    .port_icon a {
+        margin-top: 18%;
+    }
+
+    .portow_icon .sm_ex_icon_fon {
+        margin-top: 30% !important;
+    }
+
+    .sm_ex_sd {
+        margin-top: 15px;
+    }
+
+    .ex_sm_team {
+        text-align: center;
+    }
+
+    .team_social a {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        margin-top: 15px;
+    }
+
+    .sm_ex_testi {
+        text-align: center;
+    }
+
+    .sm_ex {
+        margin-top: 20px;
+    }
+
+    .sm_ex_img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .footer_btm_content h4 {
+        font-size: 11px;
+    }
+
+    .sm_text_al {
+        text-align: center;
+    }
+
+    .sm_ex_pl {
+        margin-left: 15px;
+    }
+
+    #scroll_top {
+        padding: 4px 10px;
+    }
+
+    .sm_ex_impor {
+        margin-top: 20px;
+    }
+
+
+}
+
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media(min-width:576px) and (max-width:767.98px) {
+
+    .navbar-nav {
+        text-align: center;
+        background: #eee;
+        position: relative;
+        z-index: 999;
+    }
+
+
+    .banner_content p {
+        padding: 0px 0px 0px 0px;
+    }
+
+    #banner_part {
+        padding: 115px 0px;
+        z-index: 2;
+    }
+
+    .about_text p {
+        margin-top: 0px;
+    }
+
+    .about_heading {
+        margin-bottom: 20px;
+    }
+
+    .angle {
+        position: absolute;
+        width: 10px;
+        height: 100%;
+        background: #0872B9;
+        top: -10px;
+        right: 33px;
+        transform: skewX(15deg);
+    }
+
+    .an_ab {
+        overflow: hidden;
+    }
+
+    .angle {
+        top: 0px;
+        right: 51px;
+        transform: skewX(14deg);
+    }
+
+    .sm_btm {
+        margin-top: 20px;
+    }
+
+    .port_img {
+        margin-top: 15px;
+    }
+
+    .team_social a {
+
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        margin-top: 21px;
+    }
+
+    .test_content p {
+        font-size: 13px;
+    }
+
+    .sadi_sm_mr {
+        margin-top: 20px;
+    }
+
+    .ft_mt {
+        margin-top: 20px;
+    }
+
+    #scroll_top {
+        padding: 5px 10px;
+    }
+
+}
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media(min-width:768px) and (max-width:991.98px) {
+
+    .navbar-nav {
+        text-align: center;
+        background: #eee;
+        position: relative;
+        z-index: 99999;
+    }
+
+
+
+    .banner_content p {
+        padding: 0px 0px 0px 259px;
+    }
+
+    #banner_part {
+        padding: 115px 0px;
+        z-index: 2;
+    }
+
+    .about_text p {
+        margin-top: 0px;
+    }
+
+    .about_heading {
+        margin-bottom: 20px;
+    }
+
+    .angle {
+        position: absolute;
+        width: 10px;
+        height: 100%;
+        background: #0872B9;
+        top: -10px;
+        right: 33px;
+        transform: skewX(15deg);
+    }
+
+    .an_ab {
+        overflow: hidden;
+    }
+
+    .portow_icon a {
+        margin-top: 85% !important;
+    }
+
+    .port_icon a {
+        margin-top: 54%;
+    }
+
+    .team_social a {
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+        margin-top: 11px;
+    }
+
+    .test_content {
+        height: 248px;
+    }
+
+    .footer_content p {
+        font-size: 13px;
+    }
+
+    .footer_link a {
+        font-size: 13px;
+    }
+
+    #scroll_top {
+        padding: 5px 9px;
+    }
+
+}
+
+
+
+
+/* Large devices (desktops, 992px and up)*/
+@media(min-width:992px) and (max-width:1199.98px) {
+
+    .navbar-nav {
+        position: relative;
+        z-index: 99999;
+    }
+
+    #banner_part {
+        z-index: 2;
+        padding: 130px 0px 80px 0px;
+    }
+
+    .banner_content p {
+        padding: 0px 0px 0px 554px;
+    }
+
+    .angle {
+        transform: skewX(14deg);
+    }
+
+    .test_content {
+        height: 222px;
+    }
+
+    .footer_content p {
+        font-size: 13px;
+    }
+
+    .footer_link a {
+        font-size: 13px;
+    }
+
+}
+
+
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media(min-width: 1200px) {
+    .navbar-nav {
+        position: relative;
+        z-index: 99999;
+    }
+
+    #banner_part {
+        z-index: 2;
+    }
+
+    #about_part {
+        position: relative;
+        z-index: 2;
+    }
+
+    .angle {
+        right: 44px;
+        transform: skewX(14deg);
+    }
+
+}
